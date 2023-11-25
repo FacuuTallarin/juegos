@@ -1,0 +1,32 @@
+body {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+#question-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #aa1919;
+  border-radius: 10px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+  cursor: pointer;
+}
+body {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  margin: 20px;
+  background-image: url("https://www.fundacionaquae.org/wp-content/uploads/2014/08/oceanos2.jpg"); /* Reemplaza 'background.jpg' con la ruta de tu imagen de fondo */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black; /* Cambia el color del texto según sea necesario para que sea visible en tu fondo */
+}
